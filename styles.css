@@ -14,3 +14,130 @@ body {
   line-height: 24px;
   text-decoration: none;
 }
+
+.address-list {
+  list-style: none;
+}
+
+.address-list-item-link {
+  color: rgb(67, 68, 85);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  text-decoration: none;
+  font-style: normal;
+}
+
+/* line-height = line-height : font-size */
+
+.hero-section-title {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 56px;
+  font-weight: 700;
+  line-height: 1.07;
+}
+
+.hero-section-button {
+  color: rgb(255, 255, 255);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 500;
+  line-height: 1.5;
+}
+
+.advantages-section-title {
+  display: none;
+}
+
+.advantages-section-list {
+  list-style: none;
+}
+
+.advantages-section-list-item-title {
+  color: rgb(46, 47, 66);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.advantages-section-list-item-text {
+  color: rgb(67, 68, 85);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+.work-section-title {
+  color: rgb(46, 47, 66);
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+}
+
+.work-section-list {
+  list-style: none;
+}
+
+.team-section-title {
+  color: rgb(46, 47, 66);
+  font-family: Roboto;
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1.11;
+}
+
+.team-section-list {
+  list-style: none;
+}
+
+.team-section-list-item-title {
+  color: rgb(46, 47, 66);
+  font-family: Roboto;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 1.2;
+}
+
+.team-section-list-item-text {
+  color: rgb(67, 68, 85);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.footer-text {
+  color: rgb(231, 233, 252);
+  font-family: Roboto;
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.header-navigation-link-span {
+  color: rgb(77, 90, 229);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.33;
+}
+
+.header-navigation-link {
+  color: rgb(46, 47, 66);
+  font-family: Raleway;
+  font-size: 18px;
+  font-weight: 800;
+  line-height: 1.33;
+  text-decoration: none;
+}
+
+/* 
+ДЗ
+1) 183 строчка, часть WEB завернуть в тег span
+2) добавить на спан класс
+3) классу спана добавить стили
+4) ссылка на 183 строчке добавить стили */
